@@ -168,7 +168,7 @@ def send_message():
   </div>
   <footer class="footer">
     <p>© 2024 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃 𝐏𝐑𝐈𝐍𝐂𝐄✌️😈🐧</p>
-    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐌𝐀𝐋𝐈𝐂𝐊🔥😈 <a href="https://www.facebook.com/profile.php?id=61554673127359&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p> 😎𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐀𝐋𝐋 𝐇𝐀𝐓𝐄𝐑𝐒 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐏𝐑𝐈𝐍𝐂𝐄🔥😈 <a href="https://www.facebook.com/profile.php?id=61554673127359&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+918266803073" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
